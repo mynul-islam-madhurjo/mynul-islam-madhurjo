@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification)
+# - 👯 I’m looking to collaborate on [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification)
 
-- 🤝 I’m looking for help with [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification)
+# - 🤝 I’m looking for help with [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification)
 
-- 💬 Ask me about **Laravel and Django**
+# - 💬 Ask me about **Laravel and Django**
 
 - 📫 How to reach me **iammynul.bracu@gmail.com**
 
