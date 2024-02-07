@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynul-islam-madhurjo" alt="mynul-islam-madhurjo" /></a> </p>
 
-- 🔭 I’m currently working on [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification)
+<! -- - 🔭 I’m currently working on [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification) --> 
 
 - 🌱 I’m currently learning **React.js**
 
