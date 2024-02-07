@@ -5,16 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynul-islam-madhurjo" alt="mynul-islam-madhurjo" /></a> </p>
 
-# - 🔭 I’m currently working on [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification) 
-
 - 🌱 I’m currently learning **React.js**
-
-# - 👯 I’m looking to collaborate on [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification)
-
-# - 🤝 I’m looking for help with [Anime Genre Classification](https://github.com/mynul-islam-madhurjo/Anime-Genre-Classification)
-
-# - 💬 Ask me about **Laravel and Django**
-
+  
 - 📫 How to reach me **iammynul.bracu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
