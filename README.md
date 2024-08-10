@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mynul Islam</h1>
-<h3 align="center">Hello! I'm a passionate software engineer with a thirst for continuous learning and growth. I love solving complex problems, researching, and exploring new technologies. My expertise includes full-stack development and machine learning.</h3>
+<h3 align="center">I'm a passionate software engineer with a thirst for continuous learning and growth. I love solving complex problems, researching, and exploring new technologies. My expertise includes full-stack development and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynul-islam-madhurjo&label=Profile%20views&color=0e75b6&style=flat" alt="mynul-islam-madhurjo" /> </p>
 
