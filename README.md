@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynul-islam-madhurjo" alt="mynul-islam-madhurjo" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN**
   
 - 📫 How to reach me **iammynul.bracu@gmail.com**
 
